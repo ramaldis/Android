@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <RelativeLayout
+        android:id="@+id/r1"
+        android:layout_width="fill_parent"
+        android:layout_height="250dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true">
+
+        <TextView
+            android:id="@+id/textView55"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:text="FAMİLY SAFE"
+            android:textColor="#f47920"
+            android:textSize="40dp" />
+
+        <TextView
+            android:id="@+id/textView56"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="50dp"
+            android:text="Genel"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#ffff8e20" />
+
+        <TextView
+            android:id="@+id/textView57"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:text="Kişisel Bilgi Gözetimi" />
+
+        <TextView
+            android:id="@+id/textView58"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="60dp"
+            android:text="Süre Gözetimi" />
+
+        <Button
+            android:id="@+id/btna1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/textView57"
+            android:layout_marginEnd="60dp"
+            android:layout_marginRight="60dp"
+            android:text="AÇIK"
+            android:background="#31FF2F" />
+
+        <Button
+            android:id="@+id/btnKategori"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/btna1"
+            android:layout_alignStart="@+id/btna1"
+            android:layout_alignTop="@+id/textView58"
+            android:text="KAPALI"
+            android:background="#FF3B2D"/>
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="250dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/r1">
+
+        <TextView
+            android:id="@+id/textView59"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="50dp"
+            android:text="Etkinlikler"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#ffff8e20" />
+
+        <TextView
+            android:id="@+id/textView60"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:text="Web Gözetimi" />
+
+        <TextView
+            android:id="@+id/textView61"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="60dp"
+            android:text="Konum Gözetimi" />
+
+        <Button
+            android:id="@+id/btna2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/textView60"
+            android:layout_marginEnd="67dp"
+            android:layout_marginRight="67dp"
+            android:text="AÇIK"
+            android:background="#31FF2F" />
+
+        <Button
+            android:id="@+id/btna3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/btna2"
+            android:layout_alignStart="@+id/btna2"
+            android:layout_alignTop="@+id/textView61"
+            android:text="AÇIK"
+            android:background="#31FF2F" />
+
+
+        <Button
+            android:id="@+id/btnEbeveynGeri"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:background="#00b4e6"
+            android:text="GERİ" />
+    </RelativeLayout>
+</RelativeLayout>
+<!-- From: file:/C:/Users/Ramaldis/Documents/AndroidStudioProjects/TabSwipe/app/src/main/res/layout/ebeveynkurallar.xml -->

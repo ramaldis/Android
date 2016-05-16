@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bu Çocuğumun Aygıtı"
+        android:textColor="#FF822D"
+        android:textSize="15dp"
+        android:layout_marginTop="15dp"
+        android:layout_centerHorizontal="true"/>
+    <Button
+        android:id="@+id/btnCocuk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Çocuk"
+        android:textSize="15dp"
+        android:background="#FF822D"
+        android:layout_below="@+id/textView24"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="35dp"/>
+
+    <TextView
+        android:id="@+id/textView25"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="BU KİMİN AYGITI?"
+        android:textSize="15dp"
+        android:layout_marginTop="35dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/btnCocuk"
+        android:background="#31FF2F"
+        />
+    <TextView
+        android:id="@+id/textView26"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Uygulamaya bu aygıtı kimin kullandığını söyleyin.İhtiyacınız olursa,bunu daha sonrra değiştirebilirsiniz."
+        android:layout_below="@+id/textView25"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="50dp"
+        android:textColor="#31FF2F"/>
+
+    <TextView
+        android:id="@+id/textView27"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bu Ebeveynimin Aygıtı"
+        android:textSize="15dp"
+        android:textColor="#5EE2FF"
+        android:layout_marginTop="65dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textView26"/>
+
+    <Button
+        android:id="@+id/btnEbeveyn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="EBEVEYN"
+        android:textSize="15dp"
+        android:background="#5EE2FF"
+        android:layout_below="@+id/textView27"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/textView28"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="61dp"
+        android:visibility="invisible" />
+
+</RelativeLayout>
+
+<!-- From: file:/C:/Users/Ramaldis/Documents/AndroidStudioProjects/TabSwipe/app/src/main/res/layout/openscreen.xml -->

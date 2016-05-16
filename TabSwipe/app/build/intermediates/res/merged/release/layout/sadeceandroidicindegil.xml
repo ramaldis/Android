@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="SADECE ANDROİD İÇİN DEĞİL"
+        android:textColor="@android:color/holo_orange_dark"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView13"
+        android:layout_marginTop="10dp"
+        android:text="Family Safe,çocuğunuzun Web Geçmişini PC sunucularında izleme olanağı sağlar" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="350dp"
+        android:layout_height="280dp"
+        android:layout_centerVertical="true"
+        android:background="@drawable/tab5"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/imageView5"
+        android:layout_marginTop="20dp"
+        android:text="Family Safe'yi ayrıca çocuklarınızın çevrimiçi ne kadar zaman geçirdiğini kontrol etmek,çevrimiçi aramalarını görmek amacıyla da kullanabilir ve önlem alabilirsiniz." />
+
+    <Button
+        android:id="@+id/btnAndroidIcınGec"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="GEÇ"
+        android:background="#FF0404"/>
+</RelativeLayout>
+<!-- From: file:/C:/Users/Ramaldis/Documents/AndroidStudioProjects/TabSwipe/app/src/main/res/layout/sadeceandroidicindegil.xml -->

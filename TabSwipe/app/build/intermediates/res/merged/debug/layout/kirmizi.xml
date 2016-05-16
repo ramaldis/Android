@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:text="HEP YANLARINDA OLUN"
+        android:textColor="#ffff9631"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView7"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="17dp"
+        android:text="Family Safe ile çocuklarınız İnternete bağlandığında yanlarında olmassanız bile yaptıkları herşeyi izleyebilirsiniz" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="350dp"
+        android:layout_height="260dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView8"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/tab2image" />
+
+
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/textView6"
+        android:layout_alignRight="@+id/textView6"
+        android:layout_below="@+id/imageView3"
+        android:layout_marginTop="10dp"
+        android:text="Uyarıları ve çocuklarınızın en son etkinliklerini görün veya bilgisayarınızı,tabletinizi veya akıllı telefonunuzu kullanarak koruma yöntemini istediğiiz zaman değiştirin" />
+
+    <Button
+        android:id="@+id/btnKirmiziGec"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="GEÇ"
+        android:background="#FF0404"/>
+
+</RelativeLayout><!-- From: file:/C:/Users/Ramaldis/Documents/AndroidStudioProjects/TabSwipe/app/src/main/res/layout/kirmizi.xml -->

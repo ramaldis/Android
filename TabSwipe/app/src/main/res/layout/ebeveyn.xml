@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView48"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:text="Ebeveyn Modu"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView49"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView48"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="15dp"
+        android:singleLine="false"
+        android:text="Bu mod bu aygıtı ailenizin çevrimiçi etkinliklerini izleme ve müdahele etme şansı sunar" />
+
+    <TextView
+        android:id="@+id/textView50"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView49"
+        android:layout_margin="20dp"
+        android:layout_marginLeft="15dp"
+        android:text="İzlemek için Aygıtınıza Family Safe yüklemelisiniz" />
+
+    <Button
+        android:id="@+id/btnDevam"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView50"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        android:background="#ffffb642"
+        android:text="Devam" />
+
+    <Button
+        android:id="@+id/btnGeri"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnDevam"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:background="#ff58cb1f"
+        android:text="Geri" />
+
+    <Button
+        android:id="@+id/btnCıkıs"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="#ff8bff3c"
+        android:text="ÇIKIŞ" />
+
+    <TextView
+        android:id="@+id/textView51"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btnCıkıs"
+        android:layout_alignEnd="@+id/btnGeri"
+        android:layout_alignRight="@+id/btnGeri"
+        android:text="New Text"
+        android:visibility="invisible" />
+
+</RelativeLayout>

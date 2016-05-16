@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btnCocukEkle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/cocukekle" />
+
+    <TextView
+        android:id="@+id/textView33"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="120dp"
+        android:layout_toLeftOf="@+id/btnCocukEkle"
+        android:layout_toStartOf="@+id/btnCocukEkle"
+        android:text="New Text"
+        android:visibility="invisible" />
+</RelativeLayout>
+<!-- From: file:/C:/Users/Ramaldis/Documents/AndroidStudioProjects/TabSwipe/app/src/main/res/layout/cocukekle.xml -->

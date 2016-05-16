@@ -1,0 +1,439 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:1:1-260:12
+	package
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:2:5-48
+		INJECTED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:7:22-76
+uses-sdk
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-analytics:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-analytics:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appstate:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-cast:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-drive:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-fitness:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-location:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-games:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-drive:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-gcm:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-identity:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-location:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-nearby:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-panorama:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-plus:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wallet:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-identity:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wearable:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:9:9-35
+		INJECTED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:14:22-64
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:17:5-98
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:17:22-95
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:20:22-78
+uses-feature#0x00020000
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:23:5-25:35
+	android:glEsVersion
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:24:9-41
+	android:required
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:25:9-32
+application
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:27:5-258:19
+MERGED from [com.android.support:appcompat-v7:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appstate:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:30:9-41
+	android:allowBackup
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:28:9-35
+	android:icon
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:29:9-44
+	android:theme
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:31:9-40
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:32:9-34:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:34:13-66
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:33:13-58
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:35:9-37:71
+	android:value
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:37:13-68
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:36:13-62
+activity#com.mobilhanem.tabswipekullanimi.Anasayfa
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:40:9-48:20
+	android:label
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:42:13-45
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:41:13-69
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:44:13-47:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:46:27-74
+activity#com.mobilhanem.tabswipekullanimi.Ayarlar
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:49:9-53:20
+	android:parentActivityName
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:51:13-83
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:50:13-68
+activity#com.mobilhanem.tabswipekullanimi.Atla
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:55:9-59:20
+	android:parentActivityName
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:57:13-83
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:56:13-65
+activity#com.mobilhanem.tabswipekullanimi.MapsActivity
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:60:9-68:20
+	android:label
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:62:13-56
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:61:13-73
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:63:13-67:29
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:66:17-76
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:66:27-73
+activity#com.mobilhanem.tabswipekullanimi.MainActivity
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:70:9-78:20
+	android:label
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:72:13-45
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:71:13-73
+intent-filter#android.intent.action.MAIN+android.intent.category.default
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:73:13-77:29
+category#android.intent.category.default
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:76:17-76
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:76:27-73
+activity#com.mobilhanem.tabswipekullanimi.ActivityLogin
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:79:9-87:20
+	android:label
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:81:13-45
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:80:13-74
+activity#com.mobilhanem.tabswipekullanimi.UserProfile
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:88:9-96:20
+	android:label
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:90:13-45
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:89:13-72
+activity#com.mobilhanem.tabswipekullanimi.OpenScreen
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:97:9-105:20
+	android:label
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:99:13-45
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:98:13-71
+activity#com.mobilhanem.tabswipekullanimi.Cocuk
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:106:9-114:20
+	android:label
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:108:13-45
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:107:13-66
+activity#com.mobilhanem.tabswipekullanimi.Ebeveyn
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:115:9-123:20
+	android:label
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:117:13-45
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:116:13-68
+activity#com.mobilhanem.tabswipekullanimi.CocukEkle
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:124:9-133:20
+	android:label
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:127:13-39
+	android:icon
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:126:13-48
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:125:13-70
+activity#com.mobilhanem.tabswipekullanimi.Cocuklar
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:135:9-144:20
+	android:label
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:138:13-39
+	android:icon
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:137:13-48
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:136:13-69
+activity#com.mobilhanem.tabswipekullanimi.CocukDevam
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:146:9-155:20
+	android:label
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:149:13-39
+	android:icon
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:148:13-48
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:147:13-71
+activity#com.mobilhanem.tabswipekullanimi.Kurallar
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:157:9-166:20
+	android:label
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:160:13-39
+	android:icon
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:159:13-48
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:158:13-69
+activity#com.mobilhanem.tabswipekullanimi.BrowserStart
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:169:9-178:20
+	android:label
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:172:13-46
+	android:icon
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:171:13-48
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:170:13-73
+activity#com.mobilhanem.tabswipekullanimi.History
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:180:9-189:20
+	android:label
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:183:13-46
+	android:icon
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:182:13-48
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:181:13-68
+activity#com.mobilhanem.tabswipekullanimi.BrowserActivity
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:190:9-199:20
+	android:label
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:193:13-46
+	android:icon
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:192:13-48
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:191:13-76
+activity#com.mobilhanem.tabswipekullanimi.EbeveynHomePage
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:201:9-209:20
+	android:label
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:203:13-45
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:202:13-76
+activity#com.mobilhanem.tabswipekullanimi.EbeveynHistory
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:211:9-219:20
+	android:label
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:213:13-45
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:212:13-75
+activity#com.mobilhanem.tabswipekullanimi.KisiselBilgi
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:221:9-229:20
+	android:label
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:223:13-45
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:222:13-73
+activity#com.mobilhanem.tabswipekullanimi.WebGozetimi
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:230:9-238:20
+	android:label
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:232:13-45
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:231:13-72
+activity#com.mobilhanem.tabswipekullanimi.Kategori
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:239:9-247:20
+	android:label
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:241:13-45
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:240:13-69
+activity#com.mobilhanem.tabswipekullanimi.SelectBlock
+ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:249:9-257:20
+	android:label
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:251:13-45
+	android:name
+		ADDED from C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\src\main\AndroidManifest.xml:250:13-72

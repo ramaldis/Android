@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <RelativeLayout
+        android:id="@+id/r1"
+        android:layout_width="fill_parent"
+        android:layout_height="250dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true">
+
+        <TextView
+            android:id="@+id/textView62"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="40dp"
+            android:text="Web Gözetimi"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#ffff8e20" />
+
+        <TextView
+            android:id="@+id/textView63"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/textView62"
+            android:layout_alignRight="@+id/textView62"
+            android:layout_marginTop="100dp"
+            android:text="Web Kategorileri"
+            android:textSize="20dp"/>
+
+        <Button
+            android:id="@+id/btnKategori"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:width="250dp"
+            android:height="80dp"
+            android:layout_toRightOf="@+id/textView63"
+            android:layout_marginTop="100dp"
+            android:background="#ff73ff3a"
+            android:text="KISITLANAN KATEGORİLER" />
+        <Button
+            android:id="@+id/btnGozetimGeri"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="200dp"
+            android:text="GERİ" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="250dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/r1">
+
+        <TextView
+            android:id="@+id/textView64"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="50dp"
+            android:text="Etkinlikler"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#ffff8e20" />
+
+        <TextView
+            android:id="@+id/textView65"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:text="Kısıtlanan Web Siteleri" />
+
+        <TextView
+            android:id="@+id/textView66"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="50dp"
+            android:layout_marginTop="50dp"
+            android:text="İzin Verilen Web Siteleri" />
+
+        <Button
+            android:id="@+id/btnKısıtEkle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="250dp"
+            android:text="EKLE"
+            android:textColor="#ff33b2ff" />
+
+        <Button
+            android:id="@+id/btnİzinEkle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/btnKısıtEkle"
+            android:layout_alignStart="@+id/btnKısıtEkle"
+            android:layout_alignTop="@+id/textView66"
+            android:text="EKLE"
+            android:textColor="#ff33b2ff" />
+
+
+    </RelativeLayout>
+</RelativeLayout>
+<!-- From: file:/C:/Users/Ramaldis/Documents/AndroidStudioProjects/TabSwipe/app/src/main/res/layout/web_gozetimi.xml -->

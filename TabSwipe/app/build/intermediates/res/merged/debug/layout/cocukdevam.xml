@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E0E0D1">
+
+    <ImageView
+        android:id="@+id/resim"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/e1" />
+    <TextView
+        android:id="@+id/txtGelenCinsiyet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/resim"
+        android:text="Çocuğun Cinsiyeti"
+        android:layout_marginTop="20dp"/>
+
+
+    <TextView
+        android:id="@+id/txtGelenCocukAd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtGelenCinsiyet"
+        android:layout_marginTop="20dp"
+        android:text="Çocuğun Adı" />
+
+    <TextView
+        android:id="@+id/txtGelenTarih"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtGelenCocukAd"
+        android:layout_marginTop="20dp"
+        android:text="Çocuğun Tarihi" />
+
+
+    <TextView
+        android:id="@+id/textView38"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btnKurallar"
+        android:layout_marginLeft="240dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="160dp"
+        android:text="Ev Kuralları"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/btnKurallar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/resim"
+        android:layout_toEndOf="@id/resim"
+        android:layout_toRightOf="@+id/resim"
+        android:background="@drawable/kural" />
+
+    <Button
+        android:id="@+id/btnCocukKaydet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnKurallar"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="150dp"
+        android:background="#ffff9838"
+        android:text="KAYDET " />
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/Ramaldis/Documents/AndroidStudioProjects/TabSwipe/app/src/main/res/layout/cocukdevam.xml -->

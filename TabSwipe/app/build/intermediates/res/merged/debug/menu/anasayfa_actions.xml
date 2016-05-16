@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Burada actionBar da Gözükmesini istediğimiz itemleri ekliyoruz
+*    Her activity için farklı oluşturabiliriz 
+*	 veya burda oluşturduğumuz menüyü her activity de kullanabiliriz
+*    programsal olarak activity içinden icon ekleyebilir çıkarabiliriz
+*
+*
+*    android:showAsAction="always" ->her durumda action bar da göstermek için
+*    android:showAsAction="never"  ->action bar da değil yandaki overflow menüde göstermek için
+*    android:showAsAction="ifroom"  ->action bar da yer varsa gösterir yoksa overflow menüde gösterir
+ -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+
+
+
+    <item android:id="@+id/action_share"
+          android:icon="@drawable/ic_action_share"
+          android:title="Paylaş" 
+          android:showAsAction="always" />
+    
+    <item android:id="@+id/action_settings"
+          android:icon="@drawable/ic_action_settings"
+          android:title="Ayarlar"
+          android:showAsAction="always" />
+    
+   
+    <!-- Refresh -->
+    <item android:id="@+id/action_refresh"
+          android:icon="@drawable/ic_action_refresh"
+          android:title="Yenile" 
+          android:showAsAction="always" />
+    
+    
+     <!-- Location Found -->
+    <item android:id="@+id/action_location_found"
+          android:icon="@drawable/ic_action_location_found"
+          android:title="Yer"
+          android:showAsAction="always" />
+    
+    <!-- Help -->
+    <item android:id="@+id/action_help"
+          android:icon="@drawable/ic_action_help"
+          android:title="Atla"
+          android:showAsAction="ifRoom"/>
+</menu>
+<!-- From: file:/C:/Users/Ramaldis/Documents/AndroidStudioProjects/TabSwipe/app/src/main/res/menu/anasayfa_actions.xml -->

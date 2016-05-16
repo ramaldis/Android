@@ -1,0 +1,216 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ScrollView
+        android:id="@+id/widget54"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView47"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="WEB KATEGORİLERİ"
+                android:layout_gravity="center_horizontal"
+                android:textColor="#C034FF"/>
+
+            <CheckBox
+                android:id="@+id/alkol"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:text="Alkol"
+                android:checked="true" />
+
+            <CheckBox
+                android:id="@+id/alısveris"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:text="Alışveriş" />
+
+            <CheckBox
+                android:id="@+id/askeri"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:text="Askeri" />
+
+            <CheckBox
+                android:id="@+id/cinsel"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:text="Cinsel"
+                android:checked="true" />
+
+            <CheckBox
+                android:id="@+id/din"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:text="Din" />
+
+            <CheckBox
+                android:id="@+id/hukumet"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:text="Hükümet" />
+
+            <CheckBox
+                android:id="@+id/kumar"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:text="Kumar"
+                android:checked="true" />
+
+            <CheckBox
+                android:id="@+id/kurtaj"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:text="Kürtaj" />
+
+            <CheckBox
+                android:id="@+id/muzik"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:text="Müzik" />
+
+            <CheckBox
+                android:id="@+id/otomotiv"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:text="Otomotiv" />
+
+            <CheckBox
+                android:id="@+id/oyun"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:text="Oyun"
+                android:checked="true" />
+
+            <CheckBox
+                android:id="@+id/pornografi"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:text="Pornografi"
+                android:checked="true"/>
+
+            <CheckBox
+                android:id="@+id/reklam"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:text="Reklam" />
+
+
+            <CheckBox
+                android:id="@+id/sanat"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:text="Sanat" />
+
+            <CheckBox
+                android:id="@+id/saglık"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:text="Sağlık" />
+
+            <CheckBox
+                android:id="@+id/seyahat"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:text="Seyahat" />
+
+            <CheckBox
+                android:id="@+id/silah"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:text="Silah"
+                android:checked="true" />
+
+            <CheckBox
+                android:id="@+id/siyaset"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:text="Siyaset" />
+
+            <CheckBox
+                android:id="@+id/spor"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:text="Spor" />
+
+            <CheckBox
+                android:id="@+id/suc"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:text="Suç"
+                android:checked="true" />
+
+            <CheckBox
+                android:id="@+id/tarikat"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:text="Tarikat"
+                android:checked="true" />
+
+            <CheckBox
+                android:id="@+id/kavga"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:text="Kavga" />
+
+            <CheckBox
+                android:id="@+id/teknoloji"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:text="Teknoloji" />
+
+            <CheckBox
+                android:id="@+id/ticaret"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:text="Ticaret" />
+
+            <CheckBox
+                android:id="@+id/tütün"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:text="Tütün" />
+
+            <CheckBox
+                android:id="@+id/uyusturucu"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:text="Uyuşturucu"
+                android:checked="true" />
+
+            <CheckBox
+                android:id="@+id/yasa"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:text="Yasa" />
+            <CheckBox
+                android:id="@+id/intihar"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:text="İntihar"
+                android:checked="true" />
+
+            <CheckBox
+                android:id="@+id/siddet"
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:text="Şiddet"
+                android:checked="true" />
+            <Button
+                android:id="@+id/btnBitti"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Bitti" />
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

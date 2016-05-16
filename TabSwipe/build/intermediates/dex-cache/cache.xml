@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\pre-dexed\release\classes-22f84c38d236ba22e2cb1ddf5a2ff4fa6ab1086c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\pre-dexed\release\classes-f3dc2e37de708318254a37c37b826a60fade1107.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\pre-dexed\release\classes-95074f770aaba5c17e42142a1817a916965612c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\pre-dexed\release\classes-ed5644c548bdaadde2bad973767e2a9a2f6880d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\pre-dexed\release\classes-89ed474fb9342074331e9628c194c9202875aeb7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\pre-dexed\release\classes-302c26af13c3b9b17a4d1e7bce6219baf08ef8c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\pre-dexed\release\classes-f75c44db6b09fe3401de78c9ab4f39d4ad2e7b7a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\pre-dexed\release\classes-bada200b3d5182682e6e057d96e3769864cc3ae7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\libs\jsoup-1.8.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3a86e137575e4a45f5a9eec407f8135512e823a2">
+        <dex dex="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\pre-dexed\release\jsoup-1.8.3-8606b017c9ac9a99c283c954ed169502b8a892e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\pre-dexed\release\classes-769828d82cfebe8181e49323db686c5e88ebe326.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\pre-dexed\release\classes-86dc253e3c4db1757365ae8ba4a322143c940a15.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\pre-dexed\release\classes-5aff07e8bfc526da1ebe100d8d0cf556f333f79a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\pre-dexed\release\classes-fc934fc1e0d7b767f8d3221ee5c455f810c3132c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\pre-dexed\release\classes-76614163c969ecdd9b2be850b1c69a55edacb0d4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\pre-dexed\release\classes-127143e428182e706c987799bd532c8e8b134e93.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ramaldis\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\pre-dexed\release\support-annotations-22.0.0-717231973d173822b840533f1b9d24bdbe2ce717.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\pre-dexed\release\internal_impl-22.0.0-e9291165bb764b8a195871f61dc9481d9c83ee12.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\pre-dexed\release\classes-7cafc64ceb77366b0f1198e2796cbf93794910ec.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ramaldis\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\pre-dexed\release\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2-7cc1c006ba6651e7dd1649502c26e28bf1e24205.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\pre-dexed\release\classes-85c7d396d4433033780af62048dfc08bab1541b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\pre-dexed\release\classes-433e60129155482ab7f3774fd53e6646da0f581d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\pre-dexed\release\classes-c3da6fcd4a98081a21899bc49dcac96aa6e0198d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\pre-dexed\release\classes-dc08ea9b3df001bba5ccbe617aaee53827e3520e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\pre-dexed\release\classes-01aa2d15266dd4aefc6fdaa80fd900bd9dc92614.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\Ramaldis\Documents\AndroidStudioProjects\TabSwipe\app\build\intermediates\pre-dexed\release\classes-a1c94be0429e4bd35a5ecdef09b879444dd627ed.jar" />
+    </item>
+
+</items>

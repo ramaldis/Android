@@ -1,0 +1,11 @@
+<resources>
+
+
+    <string name="app_name">Family Safe </string>
+    <string name="title_activity_maps">Map</string>
+    <string name="string_enter_name">İsim Giriniz</string>
+    <string name="string_choose_username">Kullanıcı Adınızı Seçiniz</string>
+    <string name="string_choose_password">Parolanızı Seçiniz</string>
+    <string name="string_enter_email">Email Adresi Giriniz</string>
+    <string name="button_register">Register</string>
+</resources>
